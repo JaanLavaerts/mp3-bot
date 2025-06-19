@@ -8,6 +8,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+.venv/
 env/
 
 # macOS
@@ -17,16 +18,5 @@ env/
 downloads/
 covers/
 
-# Logs or temp
-*.log
-*.tmp
-*.zip
-
-# IDEs and editors
 .vscode/
 .idea/
-*.swp
-
-# System
-Thumbs.db
-ehthumbs.db
