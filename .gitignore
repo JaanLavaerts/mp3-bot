@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environment
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Output folders
+downloads/
+covers/
+
+# Logs or temp
+*.log
+*.tmp
+*.zip
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# System
+Thumbs.db
+ehthumbs.db
